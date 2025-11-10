@@ -9,7 +9,7 @@ Dataset CIFAR10 , SELU vs BatchNorm , Frozen vs Unfrozen, Optimizers, Regulariza
 
 ## 🎯 Key Features
 - Feature 1 (CIFAR10 datasets and , randomly pictures)
-- Feature 2 (CNN , Sequential model)
+- Feature 2 (CNN and Sequetial model, Object Detection, Segmentation)
 - Feature 3 (more than 95% accuracy on test data)
 
 ## 🏗 Architecture
