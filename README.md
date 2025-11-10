@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📖 Overview
-Dataset CIFAR10 , SELU vs BatchNorm , Frozen vs Unfrozen, Optimizers, Regularization
+Dataset CIFAR10 , SELU vs BatchNorm , Frozen vs Unfrozen, Optimizers, Regularization and The projects in Chapter 4 are used to work with images and optimize deep networks.
 
 ## 🎯 Key Features
 - Feature 1 (e.g., Real-time object detection)
