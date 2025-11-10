@@ -19,3 +19,14 @@ graph TD
     B --> C[Model Training]
     C --> D[Evaluation]
     D --> E[Deployment]
+
+project-name/
+├── data/
+├── notebooks/
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model.py
+│   └── utils.py
+├── models/
+├── requirements.txt
+└── README.md
