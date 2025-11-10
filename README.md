@@ -8,9 +8,9 @@
 Dataset CIFAR10 , SELU vs BatchNorm , Frozen vs Unfrozen, Optimizers, Regularization and The projects in Chapter(fasl) 4 are used to work with images and optimize deep networks.
 
 ## 🎯 Key Features
-- Feature 1 (e.g., Real-time object detection)
-- Feature 2 (e.g., Model deployment via Streamlit)
-- Feature 3 (e.g., 95% accuracy on test data)
+- Feature 1 (CIFAR10 datasets and , randomly pictures)
+- Feature 2 (CNN , Sequential model)
+- Feature 3 (more than 95% accuracy on test data)
 
 ## 🏗 Architecture
 ```mermaid
